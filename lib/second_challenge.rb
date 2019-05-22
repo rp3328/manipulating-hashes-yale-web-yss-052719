@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  arr = groceries.value
+  arr = groceries.values
   arra= arr.flatten
   return arra
 end
